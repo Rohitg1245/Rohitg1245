@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit Gupta
-- 👀 I’m interested in UX design, cloud computing
+- 👀 I’m interested in web development, ui/ux
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me by teacher
